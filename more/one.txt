@@ -1,0 +1,113 @@
+ <div class="card ecommerce-card single-video">
+                        <div class="card-content">
+                            <div class="text-center">
+                                    <img class="img-fluid" alt="img-placeholder" src="https://img.youtube.com/vi/nskAKfKud5g/mqdefault.jpg">
+                            </div>
+                            <div class="card-body">
+                                <div class="item-wrapper">
+                                    <div class="item-rating video-status">
+                                        <div class="badge badge-primary badge-md">
+                                            New <i class="feather icon-star ml-25"></i>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <h6 class="item-price video-gram">
+                                            +0.1 Gram
+                                        </h6>
+                                    </div>
+                                </div>
+                                <div class="item-name">
+                                    <a>
+                                        ग्रामफ्री फेक [स्कैम] या लेगिट फुल रिव्यू वॉच इट
+                                    </a>
+                                </div>
+                                <div>
+                                    <p class="item-description">
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="item-options text-center watch-btn" data-id="27180">
+                                <a href="nskAKfKud5g" target="_blank">
+                                    <div class="cart">
+                                        <i class="feather icon-eye"></i><span class="add-to-cart">Watch</span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card ecommerce-card single-video">
+                        <div class="card-content">
+                            <div class="text-center">
+                                    <img class="img-fluid" alt="img-placeholder" src="https://img.youtube.com/vi/WWDR9wJXTnQ/mqdefault.jpg">
+                            </div>
+                            <div class="card-body">
+                                <div class="item-wrapper">
+                                    <div class="item-rating video-status">
+                                        <div class="badge badge-primary badge-md">
+                                            New <i class="feather icon-star ml-25"></i>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <h6 class="item-price video-gram">
+                                            +0.1 Gram
+                                        </h6>
+                                    </div>
+                                </div>
+                                <div class="item-name">
+                                    <a>
+                                        Earnings on cryptocurrency from telegrams! Really pays???
+                                    </a>
+                                </div>
+                                <div>
+                                    <p class="item-description">
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="item-options text-center watch-btn" data-id="27123">
+                                <a href="WWDR9wJXTnQ" target="_blank">
+                                    <div class="cart">
+                                        <i class="feather icon-eye"></i><span class="add-to-cart">Watch</span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card ecommerce-card single-video">
+                        <div class="card-content">
+                            <div class="text-center">
+                                    <img class="img-fluid" alt="img-placeholder" src="https://img.youtube.com/vi/dPSXZyWg2Js/mqdefault.jpg">
+                            </div>
+                            <div class="card-body">
+                                <div class="item-wrapper">
+                                    <div class="item-rating video-status">
+                                        <div class="badge badge-primary badge-md">
+                                            New <i class="feather icon-star ml-25"></i>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <h6 class="item-price video-gram">
+                                            +0.1 Gram
+                                        </h6>
+                                    </div>
+                                </div>
+                                <div class="item-name">
+                                    <a>
+                                        Easy Withdrawal, GramFree
+                                    </a>
+                                </div>
+                                <div>
+                                    <p class="item-description">
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="item-options text-center watch-btn" data-id="26829">
+                                <a href="dPSXZyWg2Js" target="_blank">
+                                    <div class="cart">
+                                        <i class="feather icon-eye"></i><span class="add-to-cart">Watch</span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
